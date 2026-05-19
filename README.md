@@ -1,4 +1,4 @@
-# g1-bms-yolo-benchmark
+# 🔋 g1-bms-yolo-benchmark
 
 Benchmark and energy consumption analysis of CPU and GPU inference on the Unitree G1 EDU humanoid robot using ROS2 and YOLO-based computer vision workloads.
 
