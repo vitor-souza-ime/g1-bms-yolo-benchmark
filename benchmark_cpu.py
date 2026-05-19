@@ -6,7 +6,7 @@ Unitree G1 EDU (Jetson Orin NX / JetPack 5.x)
 
 
 Uso:
-   python /home/unitree/Documents/Camera/YOLO_CPU_ONLY.py
+   python /home/unitree/Documents/Camera/benchmark_cpu.py
 """
 
 
